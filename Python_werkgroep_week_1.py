@@ -2,6 +2,8 @@
 #nog een hele hoop leuke oplossingen 
 
 #ik ga hier nog even typen, 
+
+#dit is een volgende regel 
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
