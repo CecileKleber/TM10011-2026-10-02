@@ -1,5 +1,7 @@
 #ik heb hier wat aangepast, nummer twee 
 #nog een hele hoop leuke oplossingen 
+
+#ik ga hier nog even typen, 
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
